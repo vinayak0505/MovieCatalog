@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sort_option_labels" />
+    <array name="pref_sort_option_values" >
+        <item>@string/pref_sort_original_title.asc_value</item>
+        <item>@string/pref_sort_original_title.desc_value</item>
+        <item>@string/pref_sort_popularity.acc_value</item>
+        <item>@string/pref_sort_popularity.dec_value</item>
+        <item>@string/pref_sort_primary_release_date.asc_value</item>
+        <item>@string/pref_sort_primary_release_date.desc_value</item>
+        <item>@string/pref_sort_release_date.asc_value</item>
+        <item>@string/pref_sort_release_date.desc_value</item>
+        <item>@string/pref_sort_revenue.asc_value</item>
+        <item>@string/pref_sort_revenue.desc_value</item>
+        <item>@string/pref_sort_vote_average.asc_value</item>
+        <item>@string/pref_sort_vote_average.desc_value</item>
+        <item>@string/pref_sort_vote_count.asc_value</item>
+        <item>@string/pref_sort_vote_count.desc_value</item>
+    </array>
+</resources>
